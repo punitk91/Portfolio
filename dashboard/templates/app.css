@@ -111,7 +111,7 @@ hr {
   }
 @keyframes animate {
     30%{
-        content: 'Punit Gautam';
+        content: 'Gautam';
         opacity: 1;
     }
     45%{
@@ -126,7 +126,7 @@ hr {
         opacity: 0;
     }
     80%{
-        content: 'Punit Gautam Developer';
+        content: 'Punit Gautam Gautam Developer';
         opacity: 1;
     }
 }
